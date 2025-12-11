@@ -7,7 +7,7 @@ Scoop bucket for [QuickCode CLI](https://github.com/QuickCodeNet/quickcode.cli) 
 ### Add this bucket
 
 ```powershell
-scoop bucket add quickcode-cli https://github.com/QuickCodeNet/scoop-bucket
+scoop bucket add quickcode-cli https://github.com/QuickCodeNet/quickcode-cli-bucket
 ```
 
 ### Install QuickCode CLI
